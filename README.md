@@ -1,4 +1,7 @@
 # ART-Pi STM32H750
+* ## 참고블로그 
+  * STM32H750
+    * https://blog.naver.com/PostView.naver?blogId=chcbaram&logNo=221780674879&categoryNo=67&parentCategoryNo=0&viewDate=&currentPage=1&postListTopCurrentPage=&from=postList&userTopListOpen=true&userTopListCount=30&userTopListManageOpen=false&userTopListCurrentPage=1
 
 ![ex_screenshot](./assets/board.jpg)
 
